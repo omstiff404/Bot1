@@ -1,0 +1,17 @@
+{
+  "name": "stiff404",
+  "version": "1.0.0",
+  "description": "WhatsApp bot (ESM) - simple, modular, easy to extend",
+  "type": "module",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "author": "omstiff404",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
